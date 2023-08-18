@@ -46,6 +46,7 @@ body{
     animation: rotate_border 6s linear infinite;
     animation-delay: -3s;
 }
+
 @keyframes rotate_border{
     0%{
         transform: rotate(0deg);
